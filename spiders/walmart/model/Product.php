@@ -24,6 +24,3 @@ class Product
         return $model;
     }
 }
-
-
-?>

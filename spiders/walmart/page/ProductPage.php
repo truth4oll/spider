@@ -184,6 +184,4 @@ class ProductPage
     {
         return $this->getJson()->product->offers->{$id}->productAvailability->availabilityStatus;
     }
-
-
 }
